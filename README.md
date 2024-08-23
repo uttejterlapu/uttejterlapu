@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React-Native**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-nqk4.vercel.app/](https://portfolio-nqk4.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://uttejterlapu.vercel.app/](https://uttejterlapu.vercel.app/)
 
 - 💬 Ask me about **NodeJS**
 
