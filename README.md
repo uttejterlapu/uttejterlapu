@@ -201,16 +201,6 @@ Real-time MERN application for market visualization and analytics.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=uttejterlapu&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
 <div align="center">
 
 ### 💡 *"Build tools that help developers build better software."*
